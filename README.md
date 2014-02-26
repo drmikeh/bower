@@ -1,4 +1,4 @@
-# Bower
+# Bower - soon will add support for registering to a private registry
 
 [![Build Status](https://secure.travis-ci.org/bower/bower.png?branch=master)](http://travis-ci.org/bower/bower)
 
